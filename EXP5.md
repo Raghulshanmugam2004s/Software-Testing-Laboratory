@@ -49,7 +49,8 @@ except:
 
 ### Output:
 
-![exp5 output](https://github.com/user-attachments/assets/8ecb2e29-b31b-4135-a49e-108772b64485)
+![image](https://github.com/user-attachments/assets/988e88b3-58f1-4268-ab1d-9438285685e1)
+
 
 
 ### Result:
