@@ -45,9 +45,6 @@ except ValueError:
 
 
 
-
-
-
 ### Result:
 Thus, a program to check sorting has been written and test cases have been written and verified
 successfully.
