@@ -41,7 +41,8 @@ else:
 
 ### Output:
 
-![exp6 output](https://github.com/user-attachments/assets/4d055ed1-1404-42d9-8e98-97e4488aa16e)
+![image](https://github.com/user-attachments/assets/99b6b64c-31f5-443d-9ca8-72a1292e1f7d)
+
 
 
 ### Result:
