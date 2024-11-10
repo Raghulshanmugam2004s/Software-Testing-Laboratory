@@ -48,31 +48,8 @@ else:
 
 ### Output:
 
-```
-Enter the Input: 0
-Armstrong Number
+![image](https://github.com/user-attachments/assets/9a0c7172-e307-4cbc-a21c-94d34ce2cdb2)
 
-Enter the Input: 153
-Armstrong Number
-
-Enter the Input: 44
-Not a Armstong Number
-
-Enter the Input: -153
-Not a Armstrong Number
-Reason: The input can only be a positive integer.
-
-Enter the Input: Raghul
-Enter a positive integer
-Reason: The input can only be of a positive integer.
-
-Enter the Input: !@#
-Enter a positive integer
-Reason: The special characters are not allowed.
-
-
-
-```
 
 
 
