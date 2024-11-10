@@ -34,8 +34,6 @@ def test_2_plus_3_equals_5():
 
 
 
-
-
 ### Result:
 Thus, the python program for addition is tested using pytest and executed and output is
 verified successfully. 
