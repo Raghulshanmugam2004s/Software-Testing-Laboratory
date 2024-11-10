@@ -54,26 +54,6 @@ else:
 ### Output:
 
 
-```
-Enter a Positive number: 2
-Prime number
-
-Enter a Positive number: 5
-Prime number
-
-Enter a Positive number: Raghul
-Enter a positive number 
-Reason: Strings are not allowed
-
-Enter a Positive number: -1
-Enter a positive number
-Reason: Negative number are not allowed.
-
-Enter a Positive number: 1
-Not a Prime number 
-Reason: The entered number is not a prime number.
-
-```
 
 
 ### Result:
