@@ -32,12 +32,14 @@ is mainly used for writing tests from simple unit tests to complex functional te
        – xfailed
 #### Eg:
 #### Parameterized Addition Program:
+```
 File name: test_parameter.py
 import pytest
 @pytest.mark.parameterize(“input1, input2, output”,[(5,5,10),(3,5,12)])
 def test_add(input1, input2, output):
 assert input1 + input2 == output
-for execution : execute “pytest test_parameter.py”. 
+for execution : execute “pytest test_parameter.py”.
+```
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/e3326fd4-e7fe-4e64-977d-7248146f2ff3)
