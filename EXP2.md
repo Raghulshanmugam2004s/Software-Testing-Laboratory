@@ -49,10 +49,6 @@ for execution : execute “pytest test_parameter.py”.
 
 
 
-
-
-
-
 ### Result:
 Thus, we have installed pytest, implemented and executed a parameterized addition
 program and the output is verified successfully. 
