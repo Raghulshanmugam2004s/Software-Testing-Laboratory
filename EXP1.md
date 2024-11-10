@@ -1,34 +1,46 @@
-# Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
+# Ex.No: 07  Sorting
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 24-09-2024                                                                   
+### REGISTER NUMBER : 212222040128
 
 ### AIM:  
-To write python programs for do…while, while, for, switch and if…else and test with possible test 
-Cases 
+Write a python program for sorting and inspect for failures
 
 ### Algorithm:
 1. Start the program.
-2. Create separate files for each given program.
-3. Write simple program for each construct.
-4.  the program with possible test cases.
-5. Stop the program.
+2. Get the number of elements from user
+3. Get the elements to be sorted
+4. Traverse the array and sort the elements one by one
+5. Print the sorted array
+6. Stop the program. 
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+n=int(input("Enter the number of elements:"))
+arr=[]
+try:
+ for i in range(n):
+ a=float(input("Enter the element:"))
+ arr.append(a)
+ for i in range(n):
+ for j in range(n):
+ if(arr[i]<arr[j):
+ temp = arr[i]
+ arr[i] = arr[j]
+ arr[j] = temp
+ print(“The array after sorting: ”)
+ for i in range(n):
+ print(arr[i],end=’ ’)
+except ValueError:
+ print(“Enter a valid number”)
+```
 ### Output:
+
+![image](https://github.com/user-attachments/assets/3801cad7-9307-4307-8f87-5cf541118013)
+
+
+
+
+
 
 
 
@@ -37,6 +49,7 @@ Cases
 
 
 ### Result:
-Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
+Thus, a program to check sorting has been written and test cases have been written and verified
+successfully.
 
 
