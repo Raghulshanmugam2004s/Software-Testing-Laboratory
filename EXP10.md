@@ -51,7 +51,9 @@ name.
 Result: pass
 □ The retrieved book information should contain the four attributes.
 Result: pass
+```
 ### Update/delete book
+```
 Pass criteria:
 □ The book item can be retrieved using the call number
 Result: did not pass. Cannot redrive using the call number
